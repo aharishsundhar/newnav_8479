@@ -1,0 +1,7 @@
+{
+  "name": "newnav",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
